@@ -1,0 +1,40 @@
+
+.main {
+    margin-left: 34%;
+    margin-right: 34%;
+    padding: 0%;
+    /* background-color: gray; */
+    padding-left: 2%;
+    padding-right: 2%;
+    border: 3px solid black;
+    /* padding-bottom: 3.5%; */
+}
+
+.proceed {
+    text-align: center;
+    padding-top: 0.1%;
+    padding-bottom: 0.1%;
+    background-color: hsl(194deg 100% 47%);
+    color: white;
+}
+
+#number {
+    padding-bottom: 15px;
+    border-bottom: 2px solid black;
+    border-color: hsl(194deg 100% 47%);
+}
+#Emailid {
+    color: hsl(194deg 100% 47%);;
+}
+#color , #tm{
+    color: hsl(194deg 100% 47%);;
+}
+#pay {
+    color: hsl(229deg 38% 25%);;
+}
+ #belowproceed {
+    justify-content: center;
+    text-align: center;
+    color: grey;
+   
+}
